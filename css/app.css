@@ -68,7 +68,7 @@
 }
 
 #mapimg {
-    width: 35vw;
+    width: 30vw;
 }
 
 #heartimg {
@@ -103,7 +103,10 @@
 #FORDtable,
 #TSStable,
 #APCtable,
-#DELTAtable {
+#DELTAtable,
+#pre500,
+#prepolar,
+#precode {
     display: none;
 }
 
