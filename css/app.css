@@ -59,11 +59,6 @@
     height: auto;
 }
 
-
-#manimg {
-    height: 75vh;
-}
-
 #brainimg {
     width: 30vw;
 }
@@ -83,11 +78,6 @@
 #BOMhead {
     font-size: 1.5rem;
 }
-
-#Description {
-    font-weight: bold;
-}
-
 
 #topBtn {
     position: fixed; /* Fixed/sticky position */
@@ -119,7 +109,13 @@
 
 #HSlogo { width: inherit; }
 
+.Description {
+    font-weight: bold;
+}
 
+.manimg {
+    height: 75vh;
+}
 
 .hover:hover {
     background-color: rgba(167, 177, 189);
