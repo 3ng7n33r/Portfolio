@@ -12,3 +12,4 @@ function makeinvis(y) {
     var elmnt = document.getElementById(y);
     elmnt.style.display = "none";
 }
+//unnecessary change #2
